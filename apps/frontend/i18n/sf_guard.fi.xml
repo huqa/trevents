@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <header/>
+    <body>
+      <trans-unit>
+        <source>Username</source>
+        <target>Käyttäjätunnus</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Username or E-Mail</source>
+        <target>Käyttäjätunnus tai sähköposti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password</source>
+        <target>Salasana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Password again</source>
+        <target>Salasana uudelleen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Remember</source>
+        <target>Muista</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Register</source>
+        <target>Rekisteröidy</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Signin</source>
+        <target>Kirjaudu sisään</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot your password?</source>
+        <target>Unohditko salasanasi?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Want to register?</source>
+        <target>Haluatko rekisteröityä?</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You don't have the required permission to access this page.</source>
+        <target>Sinulla ei ole vaadittuja oikeuksia tälle sivulle.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Login below to gain access</source>
+        <target>Kirjaudu sisään</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Oops! The page you asked for is secure and you do not have proper credentials.</source>
+        <target>Virhe! Sinulla ei ole riittäviä oikeuksia tälle sivulle.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Hi %first_name%</source>
+        <target>Moikka %first_name%!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>This e-mail is being sent because you requested information on how to reset your password.</source>
+        <target>Tämä sähköposti lähetettiin sinulle, koska halusit palauttaa salasanasi.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>You can change your password by clicking the below link which is only valid for 24 hours:</source>
+        <target>Voit vaihtaa salasanasi klikkaamalla linkkiä seuraavan 24 tunnin sisällä.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Click to change password</source>
+        <target>Klikkaa vaihtaaksesi salasanasi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Below you will your username and new password:</source>
+        <target>Alapuolella on käyttäjätunnuksesi ja uusi salasana:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Below you will find your username and new password:</source>
+        <target>Alapuolella on käyttäjätunnuksesi ja uusi salasana:</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Do not worry, we can help you get back in to your account safely!</source>
+        <target>Älä huoli, autamme sinua saamaan tunnuksesi takaisin turvallisesti!</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Fill out the form below to request an e-mail with information on how to reset your password.</source>
+        <target>Täytä lomake, niin lähetämme sähköpostiisi tiedot, miten salasanasi saa palautettua.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Request</source>
+        <target>Vaadi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Hello %name%</source>
+        <target>Hei %name%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Enter your new password in the form below.</source>
+        <target>Kirjoita uusi salasanasi seuraavaan kenttään.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Change</source>
+        <target>Muokkaa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Forgot Password Request for %name%</source>
+        <target>Salasanan palautuspyyntö käyttäjälle %name%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>New Password for %name%</source>
+        <target>Uusi salasana käyttäjälle %name%</target>
+      </trans-unit>
+      <trans-unit>
+        <source>We can email you instructions to reset your password.</source>
+        <target>Lähetämme sähköpostiisi ohjeet salasanan palauttamiseksi.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Email</source>
+        <target>Sähköposti</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Reset Password</source>
+        <target>Palauta salasana</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Check your e-mail! You should receive something shortly!</source>
+        <target>Tarkista sähköpostisi, sinne saapuu kohta tiedot.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

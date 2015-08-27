@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+<file original="messages" source-language="en_US" datatype="plaintext">
+<body>
+<trans-unit id="1">
+<source>January</source>
+<target>Tammikuu</target>
+</trans-unit>
+<trans-unit id="2">
+<source>February</source>
+<target>Helmikuu</target>
+</trans-unit>
+<trans-unit id="3">
+<source>March</source>
+<target>Maaliskuu</target>
+</trans-unit>
+<trans-unit id="4">
+<source>April</source>
+<target>Huhtikuu</target>
+</trans-unit>
+<trans-unit id="5">
+<source>May</source>
+<target>Toukokuu</target>
+</trans-unit>
+<trans-unit id="6">
+<source>June</source>
+<target>Kesäkuu</target>
+</trans-unit>
+<trans-unit id="7">
+<source>July</source>
+<target>Heinäkuu</target>
+</trans-unit>
+<trans-unit id="8">
+<source>August</source>
+<target>Elokuu</target>
+</trans-unit>
+<trans-unit id="9">
+<source>September</source>
+<target>Syyskuu</target>
+</trans-unit>
+<trans-unit id="10">
+<source>October</source>
+<target>Lokakuu</target>
+</trans-unit>
+<trans-unit id="11">
+<source>November</source>
+<target>Marraskuu</target>
+</trans-unit>
+<trans-unit id="12">
+<source>December</source>
+<target>Joulukuu</target>
+</trans-unit>
+<trans-unit id="13">
+<source>Search</source>
+<target>Etsi</target>
+</trans-unit>
+<trans-unit id="14">
+<source>Category</source>
+<target>Kategoria</target>
+</trans-unit>
+<trans-unit id="15">
+<source>In frontpage</source>
+<target>Etusivulle</target>
+</trans-unit>
+<trans-unit id="16">
+<source>Name</source>
+<target>Nimi</target>
+</trans-unit>
+<trans-unit id="17">
+<source>Parent category</source>
+<target>Yläkategoria</target>
+</trans-unit>
+<trans-unit id="18">
+<source>remove the current file</source>
+<target>Poista nykyinen tiedosto</target>
+</trans-unit>
+<trans-unit id="19">
+<source>Description</source>
+<target>Kuvaus</target>
+</trans-unit>
+<trans-unit id="20">
+<source>Title</source>
+<target>Otsikko</target>
+</trans-unit>
+<trans-unit id="4000">
+<source>Username or email</source>
+<target>Käyttäjätunnus</target>
+</trans-unit>
+<trans-unit id="4001">
+<source>Password</source>
+<target>Salasana</target>
+</trans-unit>
+<trans-unit id="4002">
+<source>Created at</source>
+<target>Luotu</target>
+</trans-unit>
+<trans-unit id="4003">
+<source>Updated at</source>
+<target>Päivitetty</target>
+</trans-unit>
+<trans-unit id="4004">
+<source>State</source>
+<target>Tila</target>
+</trans-unit>
+<trans-unit id="4005">
+<source>Back to list</source>
+<target>Takaisin listaukseen</target>
+</trans-unit>
+<trans-unit id="4006">
+<source>The username and/or password is invalid.</source>
+<target>Käyttäjätunnus tai salasana on virheellinen.</target>
+</trans-unit>
+<trans-unit id="4007">
+<source>Required.</source>
+<target>Pakollinen kenttä.</target>
+</trans-unit>
+<trans-unit id="4008">
+<source>Forgot your password?</source>
+<target>Salasana unohtunut?</target>
+</trans-unit>
+<trans-unit id="4009">
+<source>Username or e-mail address not found please try again.</source>
+<target>Käyttäjätunnusta tai sähköpostia ei löytynyt. Yritä myöhemmin uudelleen.</target>
+</trans-unit>
+<trans-unit id="4010">
+<source>Your username or e-mail address is required.</source>
+<target>Käyttäjätunnusta tai sähköposti ovat pakollisia.</target>
+</trans-unit>
+<trans-unit id="4011">
+<source>Check your e-mail! You should receive something shortly!</source>
+<target>Tarkista sähköpostisi, saat hetken päästä viestin.</target>
+</trans-unit>
+<trans-unit id="4012">
+<source>Image</source>
+<target>Kuva</target>
+</trans-unit>
+<trans-unit id="4013">
+<source>File</source>
+<target>Tiedosto</target>
+</trans-unit>
+<trans-unit id="4014">
+<source>is empty</source>
+<target>on tyhjä</target>
+</trans-unit>
+<trans-unit id="4015">
+<source>from</source>
+<target>alkaen</target>
+</trans-unit>
+<trans-unit id="4016">
+<source>to</source>
+<target>päättyen</target>
+</trans-unit>
+<trans-unit id="4017">
+<source>Type</source>
+<target>Tyyppi</target>
+</trans-unit>
+<trans-unit id="4020">
+<source>Choose an action</source>
+<target>Valitse toiminto</target>
+</trans-unit>
+<trans-unit id="4021">
+<source>Publish</source>
+<target>Julkaise</target>
+</trans-unit>
+<trans-unit id="4022">
+<source>Published</source>
+<target>Julkaistu</target>
+</trans-unit>
+<trans-unit id="4023">
+<source>Draft</source>
+<target>Vedos</target>
+</trans-unit>
+<trans-unit id="4024">
+<source>Schedule</source>
+<target>Ajasta</target>
+</trans-unit>
+<trans-unit id="4025">
+<source>Oct</source>
+<target>Loka</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

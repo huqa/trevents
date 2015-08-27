@@ -1,0 +1,22 @@
+trevents processes ---
+----------------------
+edit 9.6.2013 // huqa
+
+frontend {
+	organizer processes {
+		+login[]
+		+add event[]
+		+edit event[]
+		+delete event[]
+		+list events[]	
+	}
+	basic user processes {
+		+show calendar and events[]
+		+show event[]
+	}
+}
+backend {
+	admin processes {
+		+CRUD organize all data[]
+	}
+}

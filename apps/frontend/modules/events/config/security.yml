@@ -1,0 +1,4 @@
+# all actions in the organize module are secure
+all:
+  is_secure: false
+  

@@ -1,0 +1,4 @@
+all:
+  stylesheets: [bootstrap.min.css, bootstrap-responsive.min.css, bootstrap-timepicker.min.css, bootstrap-datetimepicker.min.css, main.css]
+  javascripts: [jquery.min.js, bootstrap.min.js, bootstrap-timepicker.min.js, bootstrap-datetimepicker.min.js, bootstrap-maxlength.js]
+  

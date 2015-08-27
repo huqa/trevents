@@ -1,0 +1,296 @@
+@import url(http://fonts.googleapis.com/css?family=Dosis:200,400);
+
+/*!
+ * trevents stylesheet 0.04
+ * created on: 12.06.2013 
+ * 
+ * version history: 
+ *		0.01 mock up off the original layout --huqa
+ *		0.02 mock up cleared --huqa
+ *		0.03 disain elements --toiminto
+ *      0.04 formatting, new elements added for categories --huqa
+ */
+
+.main_bar {
+	margin-top: 2em;
+	border-bottom: 1px solid #690;
+	margin-bottom: 2em;
+}
+
+.main_bar_inner {
+	
+}
+
+.trevent_banner {
+	font-family: 'Dosis', sans-serif;
+	color: #c2c2c2;
+}
+
+#add_event {
+	
+}
+
+.wrapper {
+	
+}
+
+/* Todays events */
+#today_container {
+	margin-bottom: 2.5em;
+}
+
+#today_banner {
+	margin-top: 0.62em;
+	color: white;
+	font-size: 1.6em;
+}
+
+#today_events {
+	
+}
+
+.event_name {
+	font-size: 1.2em;
+	margin-top: 0.7em;
+	font-weight: bold;
+}
+
+.event_info {
+	margin-top: 0.2em;
+	color: #c2c2c2;
+}
+
+.event_description {
+	color: #c2c2c2;
+	font-style: oblique;
+	margin-bottom: 1.4em;
+}
+
+/* Week events */
+#week_container {
+	
+}
+
+.weekday_banner {
+	margin-top: 0.62em;
+	color: white;
+	font-size: 1.6em;
+}
+
+.week_event_name {
+	margin-top: 1em;
+	font-size: 1.2em;
+	margin-bottom: 0.5em;
+}
+
+.week_event_info {
+	margin-top: 0.2em;
+	color: #c2c2c2;
+}
+
+.week_event_description {
+	color: #c2c2c2;
+	font-style: oblique;
+	margin-bottom: 1.4em;
+}
+
+#calendar_picker {
+	margin-top: 0.62em;
+}
+
+#category_tags {
+	margin-top: 0.62em;
+}
+
+.error_list {
+	margin-left: 0px;
+}
+
+.icon-web {
+    background-image: url("/img/hyperlink.png");
+    background-position: center center;
+}
+
+#event_description {
+	border-radius: 4px;	
+}
+
+#event_start_time_hour {
+	border-radius: 4px;
+	margin-right: 6px;
+}
+
+#event_start_time_minute {
+	border-radius: 4px;
+}
+
+#event_end_time_hour {
+	border-radius: 4px;
+	margin-right: 6px;
+}
+
+#event_end_time_minute {
+	border-radius: 4px;
+}
+
+.euro_add_on {
+	color: black;
+}
+
+.error_list li {
+	color: #eee;
+	font-size: small;
+	list-style-type: none;
+	margin: 0px;
+}
+
+#tag_list {
+	list-style-type: none;
+	margin: 0em;	
+	margin-top: 0.42em;
+}
+
+/* Inheritor selectors for tags */
+li > a.active:hover {
+	text-decoration: none;
+	color: inherit;
+}
+
+li > a.inactive:hover {
+	text-decoration: none;
+	color: #888888;
+}
+
+a.cat_link:active {
+	text-decoration:none;
+}
+
+a.cat_link:focus {
+	text-decoration:none;
+}
+
+#progress {
+    background-image: url("/img/progress.gif");
+    background-position: center center;
+    height: 14px;
+    width: 14px;
+	/*margin-right: auto;
+	margin-left: auto;*/
+}
+
+#spacer {
+	height: 1em;
+	margin-top: 0.4em;
+}
+
+@keyframes pulssi {
+	0% { opacity: 1; }
+	50% { opacity: 0.75; }
+	100% { opacity: 0.5; }
+}
+
+@-webkit-keyframes pulssi {
+	0% { opacity: 1; }
+	50% { opacity: 0.75; }
+	100% { opacity: 0.5; }
+}
+.pulsuta {
+	animation: pulssi 0.4s ease-out 0s 1;
+	-webkit-animation: pulssi 0.4s ease-out 0s 1;
+}
+
+.feidaa_out {
+	opacity: 1;
+	animation: fadetus_out 0.25s ease 0s 1;
+	-webkit-animation: fadetus_out 0.25s ease 0s 1;
+}
+
+@keyframes fadetus_out {
+	0% { opacity: 1; }
+	50% { opacity: 0.5; }
+	100% { opacity: 0; }
+}
+
+@-webkit-keyframes fadetus_out {
+	0% { opacity: 1; }
+	50% { opacity: 0.5; }
+	100% { opacity: 0; }
+}
+
+.feidaa_in {
+	opacity: 1;
+	/*transition: opacity 0.35s, ease-in-out;
+   	-moz-transition: opacity 0.35s, ease-in-out;
+   	-webkit-transition: opacity 0.35s, ease-in-out;
+   	-o-transition: opacity 0.35s, ease-in-out;*/
+	animation: fadetus_in 0.35s ease-out 0s 1;
+	-webkit-animation: fadetus_in 0.35s ease-out 0s 1;
+}
+
+@keyframes fadetus_in {
+	0% { opacity: 0; }
+	50% { opacity: 0.5; }
+	100% { opacity: 1; }
+}
+
+@-webkit-keyframes fadetus_in {
+	0% { opacity: 0; }
+	50% { opacity: 0.5; }
+	100% { opacity: 1; }
+}
+
+/* The colours come here 
+   Using class logic colour_1, colour_2 etc. */
+.colour_multi {
+	color: #dfc184;
+}   
+   
+.colour_1 {
+	color: #ffe231;
+}
+
+.colour_2 {
+	color: #ff6e2e;
+}
+
+.colour_3 {
+	color: #bcbde2;
+}
+
+.colour_4 {
+	color: #3bbfbc;
+}
+
+.colour_5 {
+	color: #12ca80;
+}
+
+.colour_6 {
+	color: #df4365;
+}
+
+.colour_7 { 
+	color:  #4c8749;
+}
+
+.colour_8 { 
+	color: #28618f;
+} 
+
+.colour_9 { 
+        color: #dddddd;
+}
+
+.colour_inactive {
+	color: #888888;
+}
+
+.separator {
+	border-top: dotted 1px #777777;
+	width: 2em;
+}
+
+.footer {
+	margin-top: 3em;
+	padding-top: 1em;
+}

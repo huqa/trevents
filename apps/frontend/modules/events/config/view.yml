@@ -1,0 +1,8 @@
+all:
+  stylesheets: [bootstrap.min.css, bootstrap-responsive.min.css, jquery.calendars.picker.css, main.css]
+  javascripts: [jquery.min.js, bootstrap.min.js, jquery.calendars.min.js, jquery.calendars.plus.min.js, jquery.calendars-fi.js, jquery.calendars.picker.min.js, jquery.calendars.picker-fi.js]
+
+indexSuccess:
+  metas:
+    description: Trevents.fi on Tampereen alueen tapahtumakalenteri, johon kuka tahansa voi lisätä tapahtuman.
+    keywords: tapahtuma, tapahtumat, Tampere
